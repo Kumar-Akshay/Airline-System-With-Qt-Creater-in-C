@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/background.jpeg</file>
+        <file>img/new.jpg</file>
+        <file>img/New1.jpg</file>
+        <file>img/one.jpg</file>
+        <file>img/complicated.jpg</file>
+        <file>img/simple 3.jpg</file>
+        <file>img/Simple.jpg</file>
+        <file>img/simple1.jpg</file>
+        <file>img/simple4.jpg</file>
+        <file>img/two (1).gif</file>
+        <file>img/two (2).gif</file>
+        <file>img/two (3).gif</file>
+    </qresource>
+</RCC>
